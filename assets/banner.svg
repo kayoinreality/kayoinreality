@@ -1,0 +1,60 @@
+<svg viewBox="0 0 900 280" width="900" height="280" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Reality — Kayo Santos">
+  <title>Reality — Kayo Santos</title>
+
+  <!-- background -->
+  <rect width="900" height="280" fill="#0a0a0c"/>
+
+  <!-- dot grid texture -->
+  <defs>
+    <pattern id="dots" x="0" y="0" width="60" height="60" patternUnits="userSpaceOnUse">
+      <circle cx="30" cy="30" r="1" fill="#ededf0"/>
+    </pattern>
+  </defs>
+  <rect width="900" height="280" fill="url(#dots)" opacity="0.06"/>
+
+  <!-- top violet accent line -->
+  <rect x="0" y="0" width="900" height="2" fill="#6b3fa0"/>
+
+  <!-- triangulated crow — scale 0.9, centered at (450, 115) -->
+  <!-- tx = 450 - 100*0.9 = 360 | ty = 115 - 107*0.9 = 18.7 -->
+  <g transform="translate(360, 19) scale(0.9)">
+    <!-- asa esquerda -->
+    <polygon points="100,100 40,70 60,110"  fill="#ededf0"/>
+    <polygon points="100,100 60,110 80,120" fill="#ededf0" opacity="0.85"/>
+    <polygon points="40,70 60,110 25,95"    fill="#ededf0" opacity="0.55"/>
+    <!-- asa direita -->
+    <polygon points="100,100 160,70 140,110"  fill="#ededf0"/>
+    <polygon points="100,100 140,110 120,120" fill="#ededf0" opacity="0.85"/>
+    <polygon points="160,70 140,110 175,95"   fill="#ededf0" opacity="0.55"/>
+    <!-- corpo + cabeça -->
+    <polygon points="100,100 90,140 110,140" fill="#ededf0"/>
+    <polygon points="95,90 105,90 100,75"    fill="#ededf0"/>
+    <!-- bico -->
+    <polygon points="100,75 105,90 115,82" fill="#6b3fa0"/>
+    <!-- olho -->
+    <circle cx="103" cy="86" r="1.6" fill="#0a0a0c"/>
+  </g>
+
+  <!-- wordmark -->
+  <text x="450" y="186"
+        text-anchor="middle"
+        font-family="'Space Grotesk','Inter',system-ui,sans-serif"
+        font-size="44" font-weight="500"
+        fill="#ededf0" letter-spacing="14">REALITY</text>
+
+  <!-- tagline -->
+  <text x="450" y="218"
+        text-anchor="middle"
+        font-family="'JetBrains Mono','Fira Code','Courier New',monospace"
+        font-size="11" fill="#ededf0" opacity="0.4" letter-spacing="3">// see what is, not what seems</text>
+
+  <!-- bottom-left meta -->
+  <text x="30" y="262"
+        font-family="'JetBrains Mono',monospace"
+        font-size="9" fill="#6b3fa0" opacity="0.65" letter-spacing="2">kayo santos</text>
+
+  <!-- bottom-right meta -->
+  <text x="870" y="262" text-anchor="end"
+        font-family="'JetBrains Mono',monospace"
+        font-size="9" fill="#6b3fa0" opacity="0.65" letter-spacing="2">@kayoinreality</text>
+</svg>

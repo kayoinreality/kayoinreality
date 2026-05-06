@@ -1,11 +1,39 @@
-# Kayo Santos
+<div align="center">
+  <img src="assets/banner.svg" alt="Reality — Kayo Santos" width="900" />
+</div>
 
-## Conecte-se comigo
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kayo-santos/)
+<br/>
 
-[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kayordgs/)
+<p align="center">
+  <img src="https://img.shields.io/badge/-observer-6b3fa0?style=flat-square&labelColor=0a0a0c" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/-analyst-6b3fa0?style=flat-square&labelColor=0a0a0c" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/-corvus-3d1f6b?style=flat-square&labelColor=0a0a0c" />
+</p>
 
-## GitHub Stats
-![Kayo's GitHub stats](https://github-readme-stats.vercel.app/api?username=kayoinreality&show_icons=true&theme=radical)
+<br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kayoinreality&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+---
+
+### `// FIND ME`
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/kayo-santos/">
+    <img src="https://img.shields.io/badge/LinkedIn-6b3fa0?style=for-the-badge&logo=linkedin&logoColor=ededf0&labelColor=0a0a0c" />
+  </a>
+  &nbsp;
+  <a href="https://www.instagram.com/kayordgs/">
+    <img src="https://img.shields.io/badge/Instagram-6b3fa0?style=for-the-badge&logo=instagram&logoColor=ededf0&labelColor=0a0a0c" />
+  </a>
+</p>
+
+---
+
+### `// STATS`
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kayoinreality&show_icons=true&bg_color=0a0a0c&text_color=ededf0&title_color=a585d6&icon_color=6b3fa0&border_color=3d1f6b&cache_seconds=3600" alt="GitHub Stats" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kayoinreality&layout=compact&bg_color=0a0a0c&text_color=ededf0&title_color=a585d6&border_color=3d1f6b" alt="Top Langs" />
+</p>

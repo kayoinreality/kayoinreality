@@ -1,0 +1,19 @@
+<svg viewBox="0 0 200 200" width="200" height="200" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Reality — ícone triangulado">
+  <title>Reality — Triangulado</title>
+  <rect width="200" height="200" fill="#0a0a0c"/>
+  <!-- asa esquerda -->
+  <polygon points="100,100 40,70 60,110"  fill="#ededf0"/>
+  <polygon points="100,100 60,110 80,120" fill="#ededf0" opacity="0.85"/>
+  <polygon points="40,70 60,110 25,95"    fill="#ededf0" opacity="0.55"/>
+  <!-- asa direita -->
+  <polygon points="100,100 160,70 140,110"  fill="#ededf0"/>
+  <polygon points="100,100 140,110 120,120" fill="#ededf0" opacity="0.85"/>
+  <polygon points="160,70 140,110 175,95"   fill="#ededf0" opacity="0.55"/>
+  <!-- corpo + cabeça -->
+  <polygon points="100,100 90,140 110,140" fill="#ededf0"/>
+  <polygon points="95,90 105,90 100,75"    fill="#ededf0"/>
+  <!-- bico -->
+  <polygon points="100,75 105,90 115,82" fill="#6b3fa0"/>
+  <!-- olho -->
+  <circle cx="103" cy="86" r="1.6" fill="#0a0a0c"/>
+</svg>
