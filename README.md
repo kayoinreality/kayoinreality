@@ -1,39 +1,22 @@
-<div align="center">
-  <img src="assets/banner.svg" alt="Reality — Kayo Santos" width="900" />
+Olá! eu sou o Kayo e a minha curiosidade me trouxe até aqui.
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Kayo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Kayo-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Kayo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Kayo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Kayo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Kayo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Kayo-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
-
-<br/>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/-observer-6b3fa0?style=flat-square&labelColor=0a0a0c" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/-analyst-6b3fa0?style=flat-square&labelColor=0a0a0c" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/-corvus-3d1f6b?style=flat-square&labelColor=0a0a0c" />
-</p>
-
-<br/>
-
----
-
-### `// FIND ME`
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/kayo-santos/">
-    <img src="https://img.shields.io/badge/LinkedIn-6b3fa0?style=for-the-badge&logo=linkedin&logoColor=ededf0&labelColor=0a0a0c" />
-  </a>
-  &nbsp;
-  <a href="https://www.instagram.com/kayordgs/">
-    <img src="https://img.shields.io/badge/Instagram-6b3fa0?style=for-the-badge&logo=instagram&logoColor=ededf0&labelColor=0a0a0c" />
-  </a>
-</p>
-
----
-
-### `// STATS`
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kayoinreality&show_icons=true&bg_color=0a0a0c&text_color=ededf0&title_color=a585d6&icon_color=6b3fa0&border_color=3d1f6b&cache_seconds=3600" alt="GitHub Stats" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kayoinreality&layout=compact&bg_color=0a0a0c&text_color=ededf0&title_color=a585d6&border_color=3d1f6b" alt="Top Langs" />
-</p>
+  
+  ##
+ 
+<div> 
+  <a href="https://www.youtube.com/@kayoinreality" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/kayordgs" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ 	<a href="https://www.twitch.tv/kayoinreality" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+  <a href = "mailto:kayorodrigodzn@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/kayo-santos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
